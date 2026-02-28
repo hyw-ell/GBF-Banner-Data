@@ -16360,5 +16360,47 @@
 		"voice_actor": "Tomokazu Seki",
 		"weapon_name": "Bipenne Galante",
 		"weapon_id": "1040319800"
+	},
+	{
+		"number": "774",
+		"id": "3040641000",
+		"name": "Walfrid",
+		"short_name": "Walfrid",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Wind",
+		"uncaps": 4,
+		"specialties": [
+			"Saber"
+		],
+		"series": [
+			"Grand"
+		],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Shuichi Ikeda",
+		"weapon_name": "Orderbringer",
+		"weapon_id": "1040029400"
+	},
+	{
+		"number": "775",
+		"id": "3040642000",
+		"name": "Ange",
+		"short_name": "Ange",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Water",
+		"uncaps": 4,
+		"specialties": [
+			"Saber"
+		],
+		"series": [],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Sanae Kobayashi",
+		"weapon_name": "Elegant Floralspear",
+		"weapon_id": "1040221000"
 	}
 ]
