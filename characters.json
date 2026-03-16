@@ -16402,5 +16402,74 @@
 		"voice_actor": "Sanae Kobayashi",
 		"weapon_name": "Elegant Floralspear",
 		"weapon_id": "1040221000"
+	},
+	{
+		"number": "776",
+		"id": "3040644000",
+		"name": "Octavia",
+		"short_name": "Octavia",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Water",
+		"uncaps": 4,
+		"specialties": [
+			"Katana",
+			"Gun"
+		],
+		"series": [
+			"Grand"
+		],
+		"races": [
+			"Erune"
+		],
+		"voice_actor": "Aya Suzaki",
+		"weapon_name": "Clockwork Blade: Kumogakure",
+		"weapon_id": "1040918400"
+	},
+	{
+		"number": "777",
+		"id": "3040645000",
+		"name": "Apollonia",
+		"short_name": "Apollonia",
+		"style": "Defense",
+		"rarity": "SS Rare",
+		"element": "Earth",
+		"uncaps": 4,
+		"specialties": [
+			"Saber",
+			"Gun"
+		],
+		"series": [
+			"Summer"
+		],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Romi Park",
+		"weapon_name": "Mysteries of the Ocean",
+		"weapon_id": "1040426000"
+	},
+	{
+		"number": "778",
+		"id": "3040646000",
+		"name": "Eustace",
+		"short_name": "Eustace",
+		"style": "Balanced",
+		"rarity": "SS Rare",
+		"element": "Fire",
+		"uncaps": 4,
+		"specialties": [
+			"Gun",
+			"Dagger"
+		],
+		"series": [
+			"Yukata"
+		],
+		"races": [
+			"Erune"
+		],
+		"voice_actor": "Kazuya Nakai",
+		"weapon_name": "Firework Galvanizer",
+		"weapon_id": "1040518900"
 	}
 ]
