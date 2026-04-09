@@ -16471,5 +16471,50 @@
 		"voice_actor": "Kazuya Nakai",
 		"weapon_name": "Firework Galvanizer",
 		"weapon_id": "1040518900"
+	},
+	{
+		"number": "779",
+		"id": "3040648000",
+		"name": "Alliah",
+		"short_name": "Alliah",
+		"style": "Defense",
+		"rarity": "SS Rare",
+		"element": "Water",
+		"uncaps": 4,
+		"specialties": [
+			"Sabre"
+		],
+		"series": [
+			"Yukata"
+		],
+		"races": [
+			"Erune"
+		],
+		"voice_actor": "Ai Kayano",
+		"weapon_name": "Morning Glory Fan",
+		"weapon_id": "1040122900"
+	},
+	{
+		"number": "780",
+		"id": "3040647000",
+		"name": "Anthuria",
+		"short_name": "Anthuria",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Light",
+		"uncaps": 4,
+		"specialties": [
+			"Melee",
+			"Harp"
+		],
+		"series": [
+			"Summer"
+		],
+		"races": [
+			"Erune"
+		],
+		"voice_actor": "Yuu Asakawa",
+		"weapon_name": "Forbidden Sunset",
+		"weapon_id": "1040426100"
 	}
 ]
