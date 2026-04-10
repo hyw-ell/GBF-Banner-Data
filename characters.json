@@ -14815,7 +14815,7 @@
 			"Katana"
 		],
 		"series": [
-			"Tie-In"
+			"Collab"
 		],
 		"races": [
 			"Unknown"
@@ -14837,7 +14837,7 @@
 			"Melee"
 		],
 		"series": [
-			"Tie-In"
+			"Collab"
 		],
 		"races": [
 			"Unknown"
@@ -15098,7 +15098,7 @@
 			"Melee"
 		],
 		"series": [
-			"Tie-In"
+			"Collab"
 		],
 		"races": [
 			"Unknown"
@@ -15121,7 +15121,7 @@
 			"Saber"
 		],
 		"series": [
-			"Tie-In"
+			"Collab"
 		],
 		"races": [
 			"Unknown"
@@ -15560,7 +15560,9 @@
 			"Gun",
 			"Bow"
 		],
-		"series": [],
+		"series": [
+			"Formal"
+		],
 		"races": [
 			"Erune"
 		],
@@ -15581,7 +15583,8 @@
 			"Melee"
 		],
 		"series": [
-			"Evokers"
+			"Evokers",
+			"Formal"
 		],
 		"races": [
 			"Erune"
@@ -15693,7 +15696,7 @@
 			"Melee"
 		],
 		"series": [
-			"Tie-In"
+			"Collab"
 		],
 		"races": [
 			"Human"
@@ -15716,7 +15719,7 @@
 			"Dagger"
 		],
 		"series": [
-			"Tie-In"
+			"Collab"
 		],
 		"races": [
 			"Human"
@@ -16003,7 +16006,9 @@
 		"specialties": [
 			"Axe"
 		],
-		"series": [],
+		"series": [
+			"4 Saints"
+		],
 		"races": [
 			"Draph"
 		],
@@ -16025,7 +16030,7 @@
 			"Melee"
 		],
 		"series": [
-			"Tie-In"
+			"Collab"
 		],
 		"races": [
 			"Human"
@@ -16048,7 +16053,7 @@
 			"Harp"
 		],
 		"series": [
-			"Tie-In"
+			"Collab"
 		],
 		"races": [
 			"Unknown"
