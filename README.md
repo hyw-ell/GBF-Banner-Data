@@ -1,5 +1,5 @@
 # GBF-Banner-Data
-Stores banner data for Granblue Fantasy. Banners are categorized by the year and month in which they started.
+Stores banner data for Granblue Fantasy. Banners are categorized by the year and month in which they started. Banner data is logged using [GBF-Banner-Logger](https://github.com/hyw-ell/GBF-Banner-Logger).
 
 ## Schema
 > [!NOTE]
