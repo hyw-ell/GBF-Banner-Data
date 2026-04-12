@@ -1,5 +1,5 @@
 {
-	"bannerInfo": {
+	"info": {
 		"id": "211140",
 		"key": "2zd4dqcm",
 		"start": "7 p.m., Apr 11, 2026 (JST)",
@@ -30,7 +30,7 @@
 			"Rare": "82.00%"
 		}
 	},
-	"bannerItems": [
+	"items": [
 		{
 			"name": "Blade of Loyalty",
 			"id": "1040023600",
