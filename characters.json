@@ -16521,5 +16521,47 @@
 		"voice_actor": "Yuu Asakawa",
 		"weapon_name": "Forbidden Sunset",
 		"weapon_id": "1040426100"
+	},
+	{
+		"number": "781",
+		"id": "3040649000",
+		"name": "Echidna",
+		"short_name": "Echidna",
+		"style": "Defense",
+		"rarity": "SS Rare",
+		"element": "Wind",
+		"uncaps": 4,
+		"specialties": [
+			"Staff",
+			"Harp"
+		],
+		"series": [],
+		"races": [
+			"Primal"
+		],
+		"voice_actor": "Haruna Ikezawa",
+		"weapon_name": "Affectionate Bell",
+		"weapon_id": "1040818400"
+	},
+	{
+		"number": "782",
+		"id": "3040650000",
+		"name": "Parashurama",
+		"short_name": "Parashurama",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Fire",
+		"uncaps": 4,
+		"specialties": [
+			"Bow",
+			"Axe"
+		],
+		"series": [],
+		"races": [
+			"Primal"
+		],
+		"voice_actor": "Yohei Azakami",
+		"weapon_name": "Vijaya",
+		"weapon_id": "1040715300"
 	}
 ]
