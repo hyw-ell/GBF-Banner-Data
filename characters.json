@@ -16563,5 +16563,47 @@
 		"voice_actor": "Yohei Azakami",
 		"weapon_name": "Vijaya",
 		"weapon_id": "1040715300"
+	},
+	{
+		"number": "783",
+		"id": "3040652000",
+		"name": "Felluca",
+		"short_name": "Felluca",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Earth",
+		"uncaps": 4,
+		"specialties": [
+			"Staff",
+			"Axe"
+		],
+		"series": [],
+		"races": [
+			"Erune"
+		],
+		"voice_actor": "Misato Fukuen",
+		"weapon_name": "'Aina Alaka'i",
+		"weapon_id": "1040320100"
+	},
+	{
+		"number": "784",
+		"id": "3040653000",
+		"name": "Manu Ponumau",
+		"short_name": "Ponumau",
+		"style": "Defense",
+		"rarity": "SS Rare",
+		"element": "Dark",
+		"uncaps": 4,
+		"specialties": [
+			"Spear",
+			"Melee"
+		],
+		"series": [],
+		"races": [
+			"10"
+		],
+		"voice_actor": "Hikaru Tono",
+		"weapon_name": "Massive Mentor Drill",
+		"weapon_id": "1040221300"
 	}
 ]
