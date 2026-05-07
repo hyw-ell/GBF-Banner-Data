@@ -1,5 +1,33 @@
 [
 	{
+		"path": "/2026/May/211250.json",
+		"id": "211250",
+		"key": "5knztg02",
+		"start": "7 p.m., May 7, 2026 (JST)",
+		"end": "6:59 p.m., May 10, 2026 (JST)",
+		"featuredItemIDs": [
+			"1040421000",
+			"1040814800",
+			"1040514800",
+			"1040215400"
+		],
+		"seasons": [
+			"Halloween"
+		],
+		"series": [
+			"Halloween",
+			"Fantasy",
+			"4 Saints"
+		],
+		"totalRate1": 99.726,
+		"totalRate2": 99.76,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
 		"path": "/2026/May/211240.json",
 		"id": "211240",
 		"key": "42163zbf",
