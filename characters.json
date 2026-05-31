@@ -16605,5 +16605,50 @@
 		"voice_actor": "Hikaru Tono",
 		"weapon_name": "Massive Mentor Drill",
 		"weapon_id": "1040221300"
+	},
+	{
+		"number": "785",
+		"id": "3040656000",
+		"name": "Roy Mustang",
+		"short_name": "Mustang",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Fire",
+		"uncaps": 4,
+		"specialties": [
+			"Staff",
+			"Gun"
+		],
+		"series": [
+			"Collab"
+		],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Shin-ichiro Miki",
+		"weapon_name": "Flame Alchemy Gloves",
+		"weapon_id": "1040621700"
+	},
+	{
+		"number": "786",
+		"id": "3040657000",
+		"name": "Olivier Mira Armstrong",
+		"short_name": "Olivier",
+		"style": "Defense",
+		"rarity": "SS Rare",
+		"element": "Water",
+		"uncaps": 4,
+		"specialties": [
+			"Sabre"
+		],
+		"series": [
+			"Collab"
+		],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Yoko Soumi",
+		"weapon_name": "Armstrong Family Sword",
+		"weapon_id": "1040029600"
 	}
 ]
