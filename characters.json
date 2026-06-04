@@ -16650,5 +16650,27 @@
 		"voice_actor": "Yoko Soumi",
 		"weapon_name": "Armstrong Family Sword",
 		"weapon_id": "1040029600"
+	},
+	{
+		"number": "787",
+		"id": "3040658000",
+		"name": "Mikaboshi",
+		"short_name": "Mikaboshi",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Fire",
+		"uncaps": 4,
+		"specialties": [
+			"Melee"
+		],
+		"series": [
+			"Grand"
+		],
+		"races": [
+			"Unknown"
+		],
+		"voice_actor": "Satomi Sato",
+		"weapon_name": "Nebula Gauntlets",
+		"weapon_id": "1040621800"
 	}
 ]
