@@ -1,5 +1,35 @@
 [
 	{
+		"path": "/2026/June/211390.json",
+		"id": "211390",
+		"key": "9dhxm3m0",
+		"start": "7 p.m., Jun 7, 2026 (JST)",
+		"end": "6:59 p.m., Jun 10, 2026 (JST)",
+		"featuredItemIDs": [
+			"1040817000",
+			"1040423800",
+			"1040816200",
+			"1040516700"
+		],
+		"seasons": [
+			"Holiday"
+		],
+		"series": [
+			"Fantasy",
+			"Holiday",
+			"12 Generals",
+			"Eternals",
+			"4 Saints"
+		],
+		"totalRate1": 99.712,
+		"totalRate2": 99.763,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
 		"path": "/2026/June/211380.json",
 		"id": "211380",
 		"key": "8tvnvapk",
