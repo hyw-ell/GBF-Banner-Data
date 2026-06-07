@@ -16672,5 +16672,25 @@
 		"voice_actor": "Satomi Sato",
 		"weapon_name": "Nebula Gauntlets",
 		"weapon_id": "1040621800"
+	},
+	{
+		"number": "788",
+		"id": "3040659000",
+		"name": "Io",
+		"short_name": "Io",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Earth",
+		"uncaps": 4,
+		"specialties": [
+			"Staff"
+		],
+		"series": [],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Yukari Tamura",
+		"weapon_name": "Radiant Rod",
+		"weapon_id": "1040426300"
 	}
 ]
