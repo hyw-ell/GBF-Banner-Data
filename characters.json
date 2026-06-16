@@ -16692,5 +16692,46 @@
 		"voice_actor": "Yukari Tamura",
 		"weapon_name": "Radiant Rod",
 		"weapon_id": "1040426300"
+	},
+	{
+		"number": "789",
+		"id": "3040661000",
+		"name": "Notus",
+		"short_name": "Notus",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Wind",
+		"uncaps": 4,
+		"specialties": [
+			"Staff",
+			"Melee"
+		],
+		"series": [],
+		"races": [
+			"Primal"
+		],
+		"voice_actor": "Rui Tanabe",
+		"weapon_name": "Ever a Wanderer",
+		"weapon_id": "1040426400"
+	},
+	{
+		"number": "790",
+		"id": "3040660000",
+		"name": "Shao",
+		"short_name": "Shao",
+		"style": "Balanced",
+		"rarity": "SS Rare",
+		"element": "Dark",
+		"uncaps": 4,
+		"specialties": [
+			"Staff"
+		],
+		"series": [],
+		"races": [
+			"Erune"
+		],
+		"voice_actor": "Takahiro Sakurai",
+		"weapon_name": "Mixing Spoon",
+		"weapon_id": "1040123000"
 	}
 ]
