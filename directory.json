@@ -1,5 +1,32 @@
 [
 	{
+		"path": "/2026/June/211510.json",
+		"id": "211510",
+		"key": "1n8eqb56",
+		"start": "12 noon, Jun 30, 2026 (JST)",
+		"end": "6:59 p.m., Jul 3, 2026 (JST)",
+		"featuredItemIDs": [
+			"1040818500",
+			"1040715400"
+		],
+		"seasons": [],
+		"series": [
+			"Grand",
+			"12 Generals",
+			"Fantasy",
+			"Formal",
+			"Evokers",
+			"4 Saints"
+		],
+		"totalRate1": 99.766,
+		"totalRate2": 99.822,
+		"drawRates": {
+			"SS Rare": "6.00%",
+			"S Rare": "15.00%",
+			"Rare": "79.00%"
+		}
+	},
+	{
 		"path": "/2026/June/211500.json",
 		"id": "211500",
 		"key": "5aomvfay",
