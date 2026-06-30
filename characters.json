@@ -16733,5 +16733,52 @@
 		"voice_actor": "Takahiro Sakurai",
 		"weapon_name": "Mixing Spoon",
 		"weapon_id": "1040123000"
+	},
+	{
+		"number": "791",
+		"id": "3040662000",
+		"name": "Meg and Mari",
+		"short_name": "Meg and Mari",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Wind",
+		"uncaps": 4,
+		"specialties": [
+			"Dagger",
+			"Melee"
+		],
+		"series": [
+			"Formal"
+		],
+		"races": [
+			"Human",
+			"Erune"
+		],
+		"voice_actor": "Tomoyo Kurosawa<br>Azumi Waki",
+		"weapon_name": "Marriage Sharkbell",
+		"weapon_id": "1040818500"
+	},
+	{
+		"number": "792",
+		"id": "3040663000",
+		"name": "Europa",
+		"short_name": "Europa",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Light",
+		"uncaps": 4,
+		"specialties": [
+			"Staff",
+			"Spear"
+		],
+		"series": [
+			"Formal"
+		],
+		"races": [
+			"Primal"
+		],
+		"voice_actor": "Mai Nakahara",
+		"weapon_name": "Engagement Snowflake",
+		"weapon_id": "1040715400"
 	}
 ]
