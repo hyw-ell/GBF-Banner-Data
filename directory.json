@@ -1,5 +1,38 @@
 [
 	{
+		"path": "/2026/July/211530.json",
+		"id": "211530",
+		"key": "3xh3dspi",
+		"start": "7 p.m., Jul 6, 2026 (JST)",
+		"end": "6:59 p.m., Jul 9, 2026 (JST)",
+		"featuredItemIDs": [
+			"1040415600",
+			"1040018700_ex",
+			"1040910900_ex",
+			"1040211400_ex",
+			"2040336000"
+		],
+		"seasons": [
+			"Summer",
+			"Yukata"
+		],
+		"series": [
+			"Summer",
+			"Yukata",
+			"Fantasy",
+			"Formal",
+			"Evokers",
+			"4 Saints"
+		],
+		"totalRate1": 99.773,
+		"totalRate2": 99.874,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
 		"path": "/2026/July/211520.json",
 		"id": "211520",
 		"key": "27t7yify",
