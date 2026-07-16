@@ -16780,5 +16780,50 @@
 		"voice_actor": "Mai Nakahara",
 		"weapon_name": "Engagement Snowflake",
 		"weapon_id": "1040715400"
+	},
+	{
+		"number": "793",
+		"id": "3040664000",
+		"name": "Osiris",
+		"short_name": "Osiris",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Dark",
+		"uncaps": 4,
+		"specialties": [
+			"Staff"
+		],
+		"series": [
+			"Yukata"
+		],
+		"races": [
+			"Primal"
+		],
+		"voice_actor": "Asami Yoshida",
+		"weapon_name": "Netherbloom Parasol",
+		"weapon_id": "1040221400"
+	},
+	{
+		"number": "794",
+		"id": "3040665000",
+		"name": "Atman",
+		"short_name": "Atman",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Fire",
+		"uncaps": 4,
+		"specialties": [
+			"Sabre",
+			"Harp"
+		],
+		"series": [
+			"Summer"
+		],
+		"races": [
+			"Unknown"
+		],
+		"voice_actor": "Mitsuru Miyamoto",
+		"weapon_name": "Exhilarating Banana",
+		"weapon_id": "1040320300"
 	}
 ]
