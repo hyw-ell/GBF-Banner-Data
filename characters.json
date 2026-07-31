@@ -16825,5 +16825,50 @@
 		"voice_actor": "Mitsuru Miyamoto",
 		"weapon_name": "Exhilarating Banana",
 		"weapon_id": "1040320300"
+	},
+	{
+		"number": "795",
+		"id": "3040669000",
+		"name": "Toshiro Hitsugaya and Rangiku Matsumoto",
+		"short_name": "Toshiro & Rangiku",
+		"style": "Balanced",
+		"rarity": "SS Rare",
+		"element": "Water",
+		"uncaps": 4,
+		"specialties": [
+			"Katana"
+		],
+		"series": [
+			"Collab"
+		],
+		"races": [
+			"Unknown"
+		],
+		"voice_actor": "Romi Park<br>Kaya Matsutani",
+		"weapon_name": "Hyorinmaru",
+		"weapon_id": "1040918900"
+	},
+	{
+		"number": "796",
+		"id": "3040668000",
+		"name": "Nelliel Tu Odelschwanck",
+		"short_name": "Nelliel",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Wind",
+		"uncaps": 4,
+		"specialties": [
+			"Katana",
+			"Spear"
+		],
+		"series": [
+			"Collab"
+		],
+		"races": [
+			"Unknown"
+		],
+		"voice_actor": "Arisa Kiyoto",
+		"weapon_name": "Gamuza",
+		"weapon_id": "1040221500"
 	}
 ]
