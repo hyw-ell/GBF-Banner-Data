@@ -1,5 +1,37 @@
 [
 	{
+		"path": "/2026/August/211660.json",
+		"id": "211660",
+		"key": "6wsar3p5",
+		"start": "7 p.m., Aug 4, 2026 (JST)",
+		"end": "6:59 p.m., Aug 7, 2026 (JST)",
+		"featuredItemIDs": [
+			"1040316100",
+			"1040422000",
+			"1040815800",
+			"1040617500",
+			"2040420000"
+		],
+		"seasons": [
+			"Summer",
+			"Yukata"
+		],
+		"series": [
+			"Summer",
+			"Yukata",
+			"Fantasy",
+			"12 Generals",
+			"4 Saints"
+		],
+		"totalRate1": 99.8,
+		"totalRate2": 99.849,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
 		"path": "/2026/July/211650.json",
 		"id": "211650",
 		"key": "5cnem9ky",
