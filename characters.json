@@ -16870,5 +16870,51 @@
 		"voice_actor": "Arisa Kiyoto",
 		"weapon_name": "Gamuza",
 		"weapon_id": "1040221500"
+	},
+	{
+		"number": "797",
+		"id": "3040671000",
+		"name": "You",
+		"short_name": "You",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Water",
+		"uncaps": 4,
+		"specialties": [
+			"Melee",
+			"Katana"
+		],
+		"series": [
+			"Summer"
+		],
+		"races": [
+			"Erune"
+		],
+		"voice_actor": "Miho Wataya",
+		"weapon_name": "Float of Loving Bonds",
+		"weapon_id": "1040715500"
+	},
+	{
+		"number": "798",
+		"id": "3040670000",
+		"name": "Gwynne",
+		"short_name": "Gwynne",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Wind",
+		"uncaps": 4,
+		"specialties": [
+			"Sabre",
+			"Gun"
+		],
+		"series": [
+			"Yukata"
+		],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Sayaka Sembongi",
+		"weapon_name": "Sagemon",
+		"weapon_id": "1040622000"
 	}
 ]
