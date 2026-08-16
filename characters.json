@@ -16916,5 +16916,51 @@
 		"voice_actor": "Sayaka Sembongi",
 		"weapon_name": "Sagemon",
 		"weapon_id": "1040622000"
+	},
+	{
+		"number": "799",
+		"id": "3040672000",
+		"name": "Payila",
+		"short_name": "Payila",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Light",
+		"uncaps": 4,
+		"specialties": [
+			"Staff"
+		],
+		"series": [
+			"12 Generals",
+			"Summer"
+		],
+		"races": [
+			"Draph"
+		],
+		"voice_actor": "Rie Takahashi",
+		"weapon_name": "Fifth Bottle of the Flight",
+		"weapon_id": "1040622100"
+	},
+	{
+		"number": "800",
+		"id": "3040673000",
+		"name": "Seox",
+		"short_name": "Seox",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Earth",
+		"uncaps": 4,
+		"specialties": [
+			"Melee"
+		],
+		"series": [
+			"Eternals",
+			"Summer"
+		],
+		"races": [
+			"Erune"
+		],
+		"voice_actor": "Nobuyuki Hiyama",
+		"weapon_name": "Hidden Fang of the Heavenly Howl",
+		"weapon_id": "1040622200"
 	}
 ]
