@@ -16962,5 +16962,48 @@
 		"voice_actor": "Nobuyuki Hiyama",
 		"weapon_name": "Hidden Fang of the Heavenly Howl",
 		"weapon_id": "1040622200"
+	},
+	{
+		"number": "801",
+		"id": "3040674000",
+		"name": "Bhadra",
+		"short_name": "Bhadra",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Light",
+		"uncaps": 4,
+		"specialties": [
+			"Staff"
+		],
+		"series": [
+			"Grand",
+			"14"
+		],
+		"races": [
+			"Draph"
+		],
+		"voice_actor": "Inori Minase",
+		"weapon_name": "Bodhicitta Hammer",
+		"weapon_id": "1040320400"
+	},
+	{
+		"number": "802",
+		"id": "3040675000",
+		"name": "Mordred",
+		"short_name": "Mordred",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Dark",
+		"uncaps": 4,
+		"specialties": [
+			"Sabre"
+		],
+		"series": [],
+		"races": [
+			"Erune"
+		],
+		"voice_actor": "Yusuke Shirai",
+		"weapon_name": "Clarent",
+		"weapon_id": "1040029700"
 	}
 ]
