@@ -1,5 +1,33 @@
 [
 	{
+		"path": "/2026/September/211800.json",
+		"id": "211800",
+		"key": "0s2htt1r",
+		"start": "7 p.m., Sep 4, 2026 (JST)",
+		"end": "6:59 p.m., Sep 7, 2026 (JST)",
+		"featuredItemIDs": [
+			"1040617200",
+			"1040022800",
+			"1040021000",
+			"1040213600"
+		],
+		"seasons": [
+			"Valentine"
+		],
+		"series": [
+			"Valentine",
+			"Fantasy",
+			"4 Saints"
+		],
+		"totalRate1": 99.729,
+		"totalRate2": 99.766,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
 		"path": "/2026/August/211790.json",
 		"id": "211790",
 		"key": "9ninef97",
