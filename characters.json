@@ -17005,5 +17005,48 @@
 		"voice_actor": "Yusuke Shirai",
 		"weapon_name": "Clarent",
 		"weapon_id": "1040029700"
+	},
+	{
+		"number": "803",
+		"id": "3040677000",
+		"name": "Cocopio",
+		"short_name": "Cocopio",
+		"style": "Defense",
+		"rarity": "SS Rare",
+		"element": "Fire",
+		"uncaps": 4,
+		"specialties": [
+			"Katana",
+			"Dagger"
+		],
+		"series": [],
+		"races": [
+			"9"
+		],
+		"voice_actor": "Rikako Aida",
+		"weapon_name": "Crimson Lordkeeper",
+		"weapon_id": "1040919000"
+	},
+	{
+		"number": "804",
+		"id": "3040676000",
+		"name": "Uruki",
+		"short_name": "Uruki",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Wind",
+		"uncaps": 4,
+		"specialties": [
+			"Sabre"
+		],
+		"series": [
+			"4 Saints"
+		],
+		"races": [
+			"Harvin"
+		],
+		"voice_actor": "Chiyuki Miura",
+		"weapon_name": "Penguin Pals",
+		"weapon_id": "1040818700"
 	}
 ]
