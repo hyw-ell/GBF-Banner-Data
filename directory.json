@@ -1,5 +1,31 @@
 [
 	{
+		"path": "/2026/September/211930.json",
+		"id": "211930",
+		"key": "3aa69fhv",
+		"start": "12 noon, Sep 30, 2026 (JST)",
+		"end": "6:59 p.m., Oct 3, 2026 (JST)",
+		"featuredItemIDs": [
+			"1040320500",
+			"1040221700"
+		],
+		"seasons": [],
+		"series": [
+			"Grand",
+			"12 Generals",
+			"Fantasy",
+			"4 Saints",
+			"14"
+		],
+		"totalRate1": 99.739,
+		"totalRate2": 99.795,
+		"drawRates": {
+			"SS Rare": "6.00%",
+			"S Rare": "15.00%",
+			"Rare": "79.00%"
+		}
+	},
+	{
 		"path": "/2026/September/211920.json",
 		"id": "211920",
 		"key": "2nt0yecw",
