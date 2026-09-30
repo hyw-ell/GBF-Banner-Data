@@ -17048,5 +17048,47 @@
 		"voice_actor": "Chiyuki Miura",
 		"weapon_name": "Penguin Pals",
 		"weapon_id": "1040818700"
+	},
+	{
+		"number": "805",
+		"id": "3040678000",
+		"name": "Vaseraga",
+		"short_name": "Vaseraga",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Earth",
+		"uncaps": 4,
+		"specialties": [
+			"Axe"
+		],
+		"series": [
+			"Grand"
+		],
+		"races": [
+			"Draph"
+		],
+		"voice_actor": "Fumihiko Tachiki",
+		"weapon_name": "Painkiller",
+		"weapon_id": "1040320500"
+	},
+	{
+		"number": "806",
+		"id": "3040679000",
+		"name": "Alba",
+		"short_name": "Alba",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Water",
+		"uncaps": 4,
+		"specialties": [
+			"Spear"
+		],
+		"series": [],
+		"races": [
+			"Draph"
+		],
+		"voice_actor": "Kana Asumi",
+		"weapon_name": "Silver Vine",
+		"weapon_id": "1040221700"
 	}
 ]
