@@ -17090,5 +17090,71 @@
 		"voice_actor": "Kana Asumi",
 		"weapon_name": "Silver Vine",
 		"weapon_id": "1040221700"
+	},
+	{
+		"number": "807",
+		"id": "3040680000",
+		"name": "Ewiyar",
+		"short_name": "Ewiyar",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Dark",
+		"uncaps": 4,
+		"specialties": [
+			"Melee"
+		],
+		"series": [
+			"Halloween"
+		],
+		"races": [
+			"Unknown"
+		],
+		"voice_actor": "Rie Hikisaka",
+		"weapon_name": "Ewiyar-Pocus",
+		"weapon_id": "1040818800"
+	},
+	{
+		"number": "808",
+		"id": "3040681000",
+		"name": "Azusa",
+		"short_name": "Azusa",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Fire",
+		"uncaps": 4,
+		"specialties": [
+			"Katana"
+		],
+		"series": [
+			"Halloween"
+		],
+		"races": [
+			"Draph"
+		],
+		"voice_actor": "Asami Seto",
+		"weapon_name": "Kumogirimaru",
+		"weapon_id": "1040919100"
+	},
+	{
+		"number": "809",
+		"id": "3040682000",
+		"name": "Randall",
+		"short_name": "Randall",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Light",
+		"uncaps": 4,
+		"specialties": [
+			"Melee"
+		],
+		"series": [
+			"Halloween"
+		],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Wataru Hatano",
+		"weapon_name": "Fugitive's Claw",
+		"weapon_id": "1040622400"
 	}
 ]
