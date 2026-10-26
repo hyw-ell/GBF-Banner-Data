@@ -1,5 +1,34 @@
 [
 	{
+		"path": "/2026/October/212030.json",
+		"id": "212030",
+		"key": "07omgt9v",
+		"start": "7 p.m., Oct 26, 2026 (JST)",
+		"end": "6:59 p.m., Oct 27, 2026 (JST)",
+		"featuredItemIDs": [
+			"1040425400",
+			"1040315600",
+			"1040615500"
+		],
+		"seasons": [
+			"Halloween"
+		],
+		"series": [
+			"Halloween",
+			"Fantasy",
+			"12 Generals",
+			"Eternals",
+			"4 Saints"
+		],
+		"totalRate1": 99.605,
+		"totalRate2": 99.782,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
 		"path": "/2026/October/212020.json",
 		"id": "212020",
 		"key": "07omgt9v",
