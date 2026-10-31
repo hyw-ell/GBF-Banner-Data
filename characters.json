@@ -17156,5 +17156,47 @@
 		"voice_actor": "Wataru Hatano",
 		"weapon_name": "Fugitive's Claw",
 		"weapon_id": "1040622400"
+	},
+	{
+		"number": "810",
+		"id": "3040683000",
+		"name": "Id",
+		"short_name": "Id",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Dark",
+		"uncaps": 4,
+		"specialties": [
+			"Sabre"
+		],
+		"series": [
+			"Grand"
+		],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Kenjiro Tsuda",
+		"weapon_name": "Ragnarok",
+		"weapon_id": "1040030000"
+	},
+	{
+		"number": "811",
+		"id": "3040684000",
+		"name": "Eugen",
+		"short_name": "Eugen",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Wind",
+		"uncaps": 4,
+		"specialties": [
+			"Gun"
+		],
+		"series": [],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Keiji Fujiwara/<br>Kazuhiro Yamaji",
+		"weapon_name": "Escorting Arms",
+		"weapon_id": "1040519200"
 	}
 ]
