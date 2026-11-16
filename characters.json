@@ -17198,5 +17198,45 @@
 		"voice_actor": "Keiji Fujiwara/<br>Kazuhiro Yamaji",
 		"weapon_name": "Escorting Arms",
 		"weapon_id": "1040519200"
+	},
+	{
+		"number": "812",
+		"id": "3040686000",
+		"name": "Farrah",
+		"short_name": "Farrah",
+		"style": "Defense",
+		"rarity": "SS Rare",
+		"element": "Water",
+		"uncaps": 4,
+		"specialties": [
+			"Sabre"
+		],
+		"series": [],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Mariya Ise",
+		"weapon_name": "Sword of Resolve",
+		"weapon_id": "1040030100"
+	},
+	{
+		"number": "813",
+		"id": "3040685000",
+		"name": "Ayer",
+		"short_name": "Ayer",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Fire",
+		"uncaps": 4,
+		"specialties": [
+			"Melee"
+		],
+		"series": [],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Kensho Ono",
+		"weapon_name": "Ignition Bandages",
+		"weapon_id": "1040622600"
 	}
 ]
