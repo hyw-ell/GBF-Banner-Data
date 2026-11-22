@@ -1,5 +1,30 @@
 [
 	{
+		"path": "/2026/November/212140.json",
+		"id": "212140",
+		"key": "46xjx8ik",
+		"start": "7 p.m., Nov 22, 2026 (JST)",
+		"end": "6:59 p.m., Nov 24, 2026 (JST)",
+		"featuredItemIDs": [
+			"1040029700",
+			"1040424200",
+			"1040221300",
+			"1040123000"
+		],
+		"seasons": [],
+		"series": [
+			"Fantasy",
+			"4 Saints"
+		],
+		"totalRate1": 99.775,
+		"totalRate2": 99.826,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
 		"path": "/2026/November/212130.json",
 		"id": "212130",
 		"key": "3p2m2r5n",
